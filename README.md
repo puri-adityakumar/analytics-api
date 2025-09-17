@@ -1,5 +1,5 @@
 # Analytics API using FastAPI + Time-series Postgres
-# WIP
+
 
 ## Start-up and Installation
 
